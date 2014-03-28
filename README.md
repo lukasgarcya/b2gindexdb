@@ -1,2 +1,2 @@
-This library allow create app to Firefox OS with IndexDB.
+This library allow create app to Firefox OS with IndexDB.</br>
 The goal of the library is hide the implementation of IndexDB and help the developer in the creation the application.
